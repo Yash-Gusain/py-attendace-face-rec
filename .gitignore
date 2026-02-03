@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Mac
+.DS_Store
+
+# Data / Privacy
+embeddings.pkl
+attendance.csv
+dataset/*
+
+# Virtual env
+venv/
+.env
